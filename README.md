@@ -2,7 +2,7 @@
   <h2>Hi there 👋</h2>
   <h3>Welcome to my GitHub profile!</h3>
 </div>
-
+![snake gif](https://raw.githubusercontent.com/Skyrim-Wu/Skyrim-Wu/output/github-snake.svg)
 <div align="center">
   <h2>🚀 Skyrim Wu</h2>
   <h3>Software Engineer | Full Stack Developer | Photographer</h3>
