@@ -1,17 +1,7 @@
 <div align="center">
-  <h2>Hi there 👋</h2>
-  <h3>Welcome to my GitHub profile!</h3>
-</div>
+  <h2>Hi there 👋. My name is Skyrim Wu</h2>
 
-<div align="center">
-  <h2>🚀 Skyrim Wu</h2>
-  <h3>Software Engineer | Full Stack Developer | Photographer</h3>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Skyrim-Wu&style=flat-square&color=blue)
-  ![GitHub followers](https://img.shields.io/github/followers/Skyrim-Wu?style=flat-square&color=blue)
 </div>
-
----
 
 ### 💻 Tech Stack
 
@@ -22,8 +12,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-
 ### 📊 About Me
 
 - 🔭 I'm currently working on **EigenFlowAI** as a Software Engineer
@@ -31,26 +19,9 @@
 - 💬 Ask me about everything hhhh
 - 📸 Also passionate about Photography
 
-### 📫 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahandsomeskyrim@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/skyrim_sc/)
-
----
-
-### 📈 GitHub Statistics
 ### 🐍 Contributions Snake Animation
 
 ![snake animation](https://raw.githubusercontent.com/Skyrim-Wu/Skyrim-Wu/output/github-snake.svg)
-
-### 🔥 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyrim-Wu&theme=tokyo-night&hide_border=true)](https://github.com/Skyrim-Wu)
-
----
-
-
-
 
 
 ⭐ Feel free to check out my repositories and don't hesitate to star if you find them useful!
