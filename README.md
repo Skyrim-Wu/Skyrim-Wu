@@ -2,6 +2,7 @@
   <h2>Hi there 👋</h2>
   <h3>Welcome to my GitHub profile!</h3>
 </div>
+
 <div align="center">
   <h2>🚀 Skyrim Wu</h2>
   <h3>Software Engineer | Full Stack Developer | Photographer</h3>
@@ -26,3 +27,33 @@
 
 ---
 
+### 📈 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skyrim-Wu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyrim-Wu&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skyrim-Wu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### 🔥 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyrim-Wu&theme=tokyo-night&hide_border=true)](https://github.com/Skyrim-Wu)
+
+---
+
+### 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+⭐ Feel free to check out my repositories and don't hesitate to star if you find them useful!
