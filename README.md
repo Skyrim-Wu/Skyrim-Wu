@@ -2,7 +2,7 @@
   <h2>Hi there 👋</h2>
   <h3>Welcome to my GitHub profile!</h3>
 </div>
-![snake gif](https://raw.githubusercontent.com/Skyrim-Wu/Skyrim-Wu/output/github-snake.svg)
+
 <div align="center">
   <h2>🚀 Skyrim Wu</h2>
   <h3>Software Engineer | Full Stack Developer | Photographer</h3>
@@ -40,6 +40,11 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyrim-Wu&theme=tokyo-night&hide_border=true)](https://github.com/Skyrim-Wu)
 
 ---
+
+### 🐍 Contributions Snake Animation
+
+![snake animation](https://raw.githubusercontent.com/Skyrim-Wu/Skyrim-Wu/output/github-snake.svg)
+
 
 ### 💻 Tech Stack
 
