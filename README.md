@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyrim-Wu)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My name is Skyrim Wu, a Software Engineer and also photographer 
 
