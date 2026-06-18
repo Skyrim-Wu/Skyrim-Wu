@@ -30,10 +30,6 @@
 ### 📈 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skyrim-Wu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyrim-Wu&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Skyrim-Wu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
